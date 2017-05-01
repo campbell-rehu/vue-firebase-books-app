@@ -1,21 +1,5 @@
-# day-29-vue-firebase-app
+# Vue.js & Firebase Application
 
-> A Vue.js project
+## Introduction
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+This application was built by following the tutorial found [here](https://www.youtube.com/watch?v=we4zuQIXmnw&utm_source=ActiveCampaign&utm_medium=email&utm_content=Advanced+Beginner+Challenge%3A+JavaScript+Day+30&utm_campaign=JS+Day+30).
